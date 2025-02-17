@@ -17,15 +17,13 @@ This project processes **LIDC-IDRI CT scans (DICOM format)** by extracting metad
 ## **📂 Project Structure**
 ```
 C:\DICOM_Project\
-│── dicom_files\                 # Raw DICOM files
-│── processed_data\               # Organized DICOM files (structured format)
+│── dicom_files\                 # Raw DICOM files (unable to load into github due to extreme size)
 │── metadata.csv                  # Extracted metadata (CSV format)
-│── dicom_metadata.db             # SQLite database storing metadata
+│── dicom_metadata.db             # SQLite database storing metadata (unable to load into github due to extreme size)
 │── extract.py                     # Extracts metadata from DICOM files
 │── analysis.py                    # Stores metadata in SQLite and runs queries
 │── visualize.py                   # Generates summary statistics and charts
 │── README.md                      # Project documentation
-│── requirements.txt                # Dependencies
 ```
 
 ---
