@@ -1,9 +1,4 @@
 # CTScans_DataEng_Assignment
-### **📌 README.md for the DICOM Metadata Extraction Project**  
-
-Here’s a structured `README.md` file for your project. You can **copy-paste** this into your GitHub repo.  
-
----
 
 # **DICOM Metadata Extraction Pipeline**  
 
